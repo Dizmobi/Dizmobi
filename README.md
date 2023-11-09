@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dizmobi
+- 👋 Hi, I’m @Dizmobi (Tom DAurizio)
 - 👀 I’ve worked as a software engineer for 25 years, mostly in the Microsoft space
-- 💞️ I’m looking to collaborate on racing or flight simulation apps
+- 💞️ I’m looking to collaborate on racing, flight simulation, and gaming apps
 - 📫 Tom@dizmobi.com
 
 <!---
